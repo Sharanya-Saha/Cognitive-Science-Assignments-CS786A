@@ -8,3 +8,5 @@ My submissions for the course CS786A, Spring 2022
 - **Assignment 2**- 
   - Using gabor filters to recognize different shapes (rectangle and triangle)
   - Implementation of different visual search paradigmns
+- **Assignment 3**-
+ - Temporal Context Model
