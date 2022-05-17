@@ -10,3 +10,6 @@ My submissions for the course CS786A, Spring 2022
   - Implementation of different visual search paradigmns
 - **Assignment 3**-
   - Temporal Context Model
+- **Assignment 4**- 
+  - Implementation of GCM
+  - Implementation of RMC
